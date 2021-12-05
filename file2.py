@@ -1,14 +1,3 @@
-# Iman Setiawan
-
-**Tugas Latihan - Pertemuan 10**
-
-Berikut soal tugas dari modul.\
-![screenshot output](screenshot/soal.png)
-
-Dibawah ini adalah code saya\
-Saya menggunakan if untuk pemilihan menunya.
-~~~
-
 x = {}
 
 while True:
@@ -82,27 +71,4 @@ while True:
         print("Input yang dimasukan salah")
         input("Tekan Enter untuk ke Menu Utama. . .")
 
-~~~
-
-Pertama saya menambahkan data kontak Ari dan Dina.\
-![screenshot output](screenshot/ss1.png)
-![screenshot output](screenshot/ss2.png)
-
-Menambahkan data kontak baru Riko.\
-Dengan input data diri dan nilai-nilai.\
-![screenshot output](screenshot/ss3.png)
-
-
-Mengganti nomor kontak Dina dengan nomor baru.\
-![screenshot output](screenshot/ss4.png)\
-
-
-Menampilkan semua nama kontak.\
-![screenshot output](screenshot/ss5.png)\
-
-Menampilkan semua nomor telepon.\
-![screenshot output](screenshot/ss6.png)\
-
-Menampilkan semua Data.\
-![screenshot output](screenshot/ss7.png)\
 
