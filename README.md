@@ -85,23 +85,23 @@ while True:
 ~~~
 
 Pertama saya menambahkan data kontak Ari dan Dina.\
-![screenshot output](screenshot/ss1.png)
-![screenshot output](screenshot/ss2.png)
+![screenshot output](screenshot/1.png)
+![screenshot output](screenshot/2.png)
 
 Menambahkan data kontak baru Riko.\
-![screenshot output](screenshot/ss3.png)
+![screenshot output](screenshot/3.png)
 
 
 Mengganti nomor kontak Dina dengan nomor baru.\
-![screenshot output](screenshot/ss4.png)
+![screenshot output](screenshot/4.png)
 
 
 Menampilkan semua nama kontak.\
-![screenshot output](screenshot/ss5.png)
+![screenshot output](screenshot/5.png)
 
 Menampilkan semua nomor telepon.\
-![screenshot output](screenshot/ss6.png)
+![screenshot output](screenshot/6.png)
 
 Menampilkan semua Data.\
-![screenshot output](screenshot/ss7.png)
+![screenshot output](screenshot/7.png)
 
