@@ -1,0 +1,2 @@
+# TugasLatihanP10
+latihan
